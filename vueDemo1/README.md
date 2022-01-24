@@ -1,6 +1,6 @@
-# y
+# vuedemo1
 
-> y
+> A Vue.js project
 
 ## Build Setup
 
